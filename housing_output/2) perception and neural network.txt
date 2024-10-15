@@ -1,0 +1,61 @@
+2) perception and neural network
+
+robots also have its perception. its just analysing the sensor data
+{i/p layer
+o/p layer
+}
+precision is a bsic layer. interconnections of a  lot of neurons together
+
+3)CNN-conventional neural network-used for img processing 
+eg-ig and snap
+use for object reongnition {eg-google lens}
+(SLAM)simluation localisation and mapping
+COLLISION detecgtion and avaoidance -uses cnn algorithm
+ti willbe finding out the edges and based on the dtaa it wil find out what king of figure is being given to the machne
+
+4)open cv-img processiong -pre defined python lib for img manipulation, 
+facial recognitition , gstural recognition
+
+{OPEN CV2}
+
+5_) ANN ARTIFICIAL neural network
+similar to human brain all neurons will be to=talikng to each other talkimg to each other in form of nodes ///locomotion
+uses NLP
+if a sensor is working properly or not
+
+NLTK library of python
+
+
+
+
+serial cable add krni to port addd krna pdega
+2911 router is the best
+router do support kra hai  gig aur serial (red wala)
+how to find effciciency in da
+will accuracy change if dataset same system wahi methods bhi wahi lgega
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
